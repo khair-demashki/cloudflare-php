@@ -1,5 +1,5 @@
 {
-  "name": "cloudflare/sdk",
+  "name": "newsifier/cloudflare-sdk",
   "description": "PHP binding for v4 of the Cloudflare Client API.",
   "type": "library",
   "require": {
@@ -9,7 +9,7 @@
     "ext-json": "*"
   },
   "require-dev": {
-    "phpunit/phpunit": "^5.7",
+    "phpunit/phpunit": "^10.1",
     "phpmd/phpmd" : "@stable",
     "friendsofphp/php-cs-fixer": "^2.6"
   },
